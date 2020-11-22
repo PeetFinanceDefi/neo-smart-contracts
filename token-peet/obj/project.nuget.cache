@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJbkSUC7D17Do/XE8b86NlyktJcPh3Mo7T7SISJHP8RUtTinfCOp13Xyv3raHgoeyS+mUMxlZmOsCrpE4KhXeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w0dm4n\\Desktop\\neo\\token-peet\\token-peet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w0dm4n\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\w0dm4n\\.nuget\\packages\\neo.smartcontract.framework\\2.10.0\\neo.smartcontract.framework.2.10.0.nupkg.sha512",
+    "C:\\Users\\w0dm4n\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

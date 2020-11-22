@@ -1,0 +1,9 @@
+C:\Users\w0dm4n\Desktop\neo\token-peet\bin\Debug\netstandard2.0\token-peet.deps.json
+C:\Users\w0dm4n\Desktop\neo\token-peet\bin\Debug\netstandard2.0\token-peet.dll
+C:\Users\w0dm4n\Desktop\neo\token-peet\bin\Debug\netstandard2.0\token-peet.pdb
+C:\Users\w0dm4n\Desktop\neo\token-peet\obj\Debug\netstandard2.0\token-peet.csprojAssemblyReference.cache
+C:\Users\w0dm4n\Desktop\neo\token-peet\obj\Debug\netstandard2.0\token-peet.AssemblyInfoInputs.cache
+C:\Users\w0dm4n\Desktop\neo\token-peet\obj\Debug\netstandard2.0\token-peet.AssemblyInfo.cs
+C:\Users\w0dm4n\Desktop\neo\token-peet\obj\Debug\netstandard2.0\token-peet.csproj.CoreCompileInputs.cache
+C:\Users\w0dm4n\Desktop\neo\token-peet\obj\Debug\netstandard2.0\token-peet.dll
+C:\Users\w0dm4n\Desktop\neo\token-peet\obj\Debug\netstandard2.0\token-peet.pdb
